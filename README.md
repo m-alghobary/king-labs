@@ -1,4 +1,4 @@
-# king-labs-new
+# king-labs
 
 ## Project setup
 ```
